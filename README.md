@@ -1,3 +1,6 @@
+This is my final project for NYU course: ECON-GA-4003 FALL 2023
+
+
 **Two csv files are included in this project:**
 
 1. merged_OR_data
